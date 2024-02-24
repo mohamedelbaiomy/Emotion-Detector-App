@@ -1,16 +1,8 @@
-# emotion_detector
+# Emotion Detector App
 
-Simple Emotion Detector App using Flutter & TensorFlow
+Simple Emotion Detector App using Flutter & Tensorflow
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshots](https://github.com/mohamedelbaiomy/Emotion-Detector-App/blob/master/ScreenShots/final.png?raw=true)
